@@ -2,7 +2,7 @@
 
 ### About me
 
-- **Name**: João Alve
+- **Name**: João Alves
 - **Age**: 21
 - **Living in**: Ceará, Brazil
 
